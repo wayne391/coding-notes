@@ -2,7 +2,7 @@
 ==============
 
 
-:musical_note: **52** Questioned Solved (Easy:32, Medium:19, Hard: 1)
+:musical_note: **55** Questioned Solved (Easy:35, Medium:19, Hard: 1)
 
 
 | # | Title | Solution | Difficulty |

@@ -1,4 +1,7 @@
-class Solution(object):
+'''
+快慢指針
+'''
+lass Solution(object):
     def hasCycle(self, head):
         if head is None:
             return False
