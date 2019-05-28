@@ -40,6 +40,7 @@
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [python](./python/120-triangle.py) | Medium |
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [python](./python/121-best-time-to-buy-and-sell-stock.py) | Easy |
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python](./python/125-valid-palindrome.py) | Easy |
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [python](./python/141-linked-list-cycle.py) | Easy |
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [python](./python/174-dungeon-game.py) | Hard |
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [python](./python/198-house-robber.py) | Easy |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [python](303-range-sum-query-immutable.py) | Easy |
