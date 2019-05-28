@@ -33,6 +33,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [python](./python/83-remove-duplicates-from-sorted-list.py) | Easy |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [python](./python/94-binary-tree-inorder-traversal.py) | Medium |
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [python](./python/100-same-tree.py) | Easy |
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python](./python/104-maximum-depth-of-binary-tree.py) | Easy |
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [python](./python/107-binary-tree-level-order-traversal-ii.py) | Easy |
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [python](./python/112-path-sum.py) | Easy |
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [python](./python/113-path-sum-ii.py) | Medium |
