@@ -42,6 +42,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [python](./python/125-valid-palindrome.py) | Easy |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [python](./python/136-single-number.py) | Easy |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [python](./python/141-linked-list-cycle.py) | Easy |
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [python](./python/160-intersection-of-two-linked-lists.py) | Easy |
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [python](./python/174-dungeon-game.py) | Hard |
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [python](./python/198-house-robber.py) | Easy |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [python](303-range-sum-query-immutable.py) | Easy |
