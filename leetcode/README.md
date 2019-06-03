@@ -55,6 +55,7 @@
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [python](./python/461-hamming-distance.py) | Easy |
 |504|[Base 7](https://leetcode.com/problems/base-7/) | [python](./python/504-base-7.py) | Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [python](./python/530-minimum-absolute-difference-in-bst.py) | Easy |
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [python](./python/543-diameter-of-binary-tree.py) | Easy |
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [python](./python/551-student-attendance-record-i) | Easy |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [python](./python/561-array-partition-i.py) | Easy |
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [python](./python/566-reshape-the-matrix.py) | Easy |
