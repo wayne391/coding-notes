@@ -46,6 +46,7 @@
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [python](./python/174-dungeon-game.py) | Hard |
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [python](./python/198-house-robber.py) | Easy |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [python](./python/206-reverse-linked-list.py) | Easy |
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |[python](226-invert-binary-tree.py) | Easy |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [python](303-range-sum-query-immutable.py) | Easy |
 |394|[Decode String](https://leetcode.com/problems/decode-string/) | [python](/python/394-decode-string.py) | Medium |
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [python](./python/404-sum-of-left-leaves) | Easy |
