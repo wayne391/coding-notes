@@ -27,6 +27,7 @@
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [python](./python/64-minimum-path-sum.py) | Medium |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [python](./python/70-climbing-stairs.py) | Easy |
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [python](./python/74-search-a-2d-matrix.py) | Medium |
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [python](./python/75-sort-colors.py) | Medium |
 |77|[Combinations](https://leetcode.com/problems/combinations/) | [python](./python/62-unique-paths.py) | Medium |
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [python](./python/77-combinations.py) | Medium |
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [python](./python/82-remove-duplicates-from-sorted-list-ii.py) | Medium |
