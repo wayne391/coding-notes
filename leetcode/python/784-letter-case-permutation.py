@@ -1,3 +1,6 @@
+'''
+Recursion
+'''
 class Solution:
     def letterCasePermutation(self, S: str) -> List[str]:
         res = []
@@ -14,3 +17,24 @@ class Solution:
                 dfs(string+char, index + 1)
         dfs("", 0)
         return res
+
+'''
+Iteration
+'''
+
+class Solution:
+    def letterCasePermutation(self, S: str) -> List[str]:
+        queue = [""]
+        
+        for ch in S:
+            tmp_q = []
+            flag = ch.isalpha()
+                
+            for q in queue:
+                if flag:
+                    tmp_q.append(q + ch.lower())
+                    tmp_q.append(q + ch.upper())
+                else: 
+                    tmp_q.append(q + ch)
+            queue = tmp_q
+        return queue
