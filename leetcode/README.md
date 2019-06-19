@@ -25,6 +25,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./python/49-group-anagrams.py) | Medium |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](./python/53-maximum-subarray.py) | Easy |
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) | [python](./python/55-jump-game.py) | Medium |
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [python](./python/56-merge-intervals.py) | Medium |
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [python](./python/58-length-of-last-word.py) | Easy |
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [python](./python/62-unique-paths.py) | Medium |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [python](./python/64-minimum-path-sum.py) | Medium |
