@@ -34,6 +34,7 @@
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [python](./python/75-sort-colors.py) | Medium |
 |77|[Combinations](https://leetcode.com/problems/combinations/) | [python](./python/62-unique-paths.py) | Medium |
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [python](./python/77-combinations.py) | Medium |
+|79|[Word Search](https://leetcode.com/problems/word-search/) | [python](./python/79-word-search.py) | Medium |
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [python](./python/82-remove-duplicates-from-sorted-list-ii.py) | Medium |
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [python](./python/83-remove-duplicates-from-sorted-list.py) | Easy |
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/) | [python](./python/90-ubsets-ii.py) | Medium |
