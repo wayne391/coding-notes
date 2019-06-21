@@ -3,10 +3,6 @@ class Solution(object):
         if root is None:
             return
         self.invertTree(root.left)
-        self.invertTree(root.right)
-        
-        temp = root.left
-        root.left = root.right
-        root.right = temp
+        self.invertTree(root.right)    
+        root.left, root.right = root.right, root.left
         return root
-        
