@@ -74,6 +74,7 @@
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [python](./python/561-array-partition-i.py) | Easy |
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [python](./python/566-reshape-the-matrix.py) | Easy |
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [python](./python/589-n-ary-tree-preorder-traversal.py) | Easy |
+|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [python](./python/590-n-ary-tree-postorder-traversal.py) | Easy |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [python](./python/657-robot-return-to-origin.py) | Easy |
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [python](./python/700-search-in-a-binary-search-tree.py) | Easy |
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [python](./python/530-minimum-absolute-difference-in-bst.py) | Easy |
