@@ -17,7 +17,7 @@
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [python](./python/17-letter-combinations-of-a-phone-number.py) | Medium |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [python](./python/20-valid-parentheses.py) | Easy |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [python](./python/21-merge-two-sorted-lists) | Easy |
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [python](./python/22-generate-parentheses.py) | Medium |
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [python](./python/22-generate-parentheses.py) / [C++](./C%2B%2B/22-generate-parentheses.cpp)| Medium |
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](./python/35-search-insert-position.py) | Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [python](./python/39-combination-sum.py) | Medium |
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [python](./python/40-combination-sum-ii.py) | Medium |
@@ -26,7 +26,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [python](./python/49-group-anagrams.py) | Medium |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](./python/53-maximum-subarray.py) | Easy |
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) | [python](./python/55-jump-game.py) | Medium |
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [python](./python/56-merge-intervals.py) | Medium |
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [python](./python/56-merge-intervals.py) / [C++](./C%2B%2B/56-merge-intervals.cpp) | Medium |
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [python](./python/58-length-of-last-word.py) | Easy |
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [python](./python/62-unique-paths.py) | Medium |
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [python](63-unique-paths-ii.py) | Medium |
