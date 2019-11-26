@@ -7,6 +7,22 @@ class Solution(object):
             else:
                 return [num_map[target - n], idx]
 
+            class Solution(object):
+                
+                
+ def twoSum(self, nums, target):
+        i, j = 0, len(nums) - 1
+        
+        nums = [(idx, n) for idx, n in enumerate(nums)]
+        nums.sort(key=lambda x: x[1])
+        while i < j:
+            value = nums[i][1] + nums[j][1] 
+            if value == target:  
+                return [nums[i][0], nums[j][0]]
+            elif value > target:
+                j -=1 
+            else:
+                i += 1
 
 # class Solution:
 #     def twoSum(self, nums, target):
